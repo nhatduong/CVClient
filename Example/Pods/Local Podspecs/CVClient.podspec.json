@@ -1,0 +1,22 @@
+{
+  "name": "CVClient",
+  "version": "0.1.0",
+  "summary": "A short description of CVClient.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nhatduong/CVClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nhatduong": "nhatbg89@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nhatduong/CVClient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CVClient/Classes/**/*"
+}

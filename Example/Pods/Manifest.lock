@@ -1,0 +1,16 @@
+PODS:
+  - CVClient (0.1.0)
+
+DEPENDENCIES:
+  - CVClient (from `../`)
+
+EXTERNAL SOURCES:
+  CVClient:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CVClient: 89d8d35470873a4b6bdde5cb4bf7b4eeeae19223
+
+PODFILE CHECKSUM: f456d0b197222d671d0f6e333939801494449389
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module CVClient {
+  umbrella header "CVClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
