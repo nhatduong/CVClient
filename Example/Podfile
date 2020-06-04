@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CVClient_Tests' do
+  pod 'CVClient', :path => '../'
+  
+  
+end
